@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoDotnetRecipes", "DemoDotnetRecipes\DemoDotnetRecipes.csproj", "{23B3FBB2-9485-4BA1-BD14-1771C3D1231A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoDotnetRecipesTests", "DemoDotnetRecipesTests\DemoDotnetRecipesTests.csproj", "{97093961-66D8-474F-94E9-2F3EC554F3A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B3FBB2-9485-4BA1-BD14-1771C3D1231A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B3FBB2-9485-4BA1-BD14-1771C3D1231A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B3FBB2-9485-4BA1-BD14-1771C3D1231A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B3FBB2-9485-4BA1-BD14-1771C3D1231A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97093961-66D8-474F-94E9-2F3EC554F3A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97093961-66D8-474F-94E9-2F3EC554F3A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97093961-66D8-474F-94E9-2F3EC554F3A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97093961-66D8-474F-94E9-2F3EC554F3A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

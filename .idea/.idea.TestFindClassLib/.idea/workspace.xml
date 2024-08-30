@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff840c84-a4c4-4c34-b527-60f5eb6a2170" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoDotnetRecipes.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoDotnetRecipes/DemoDotnetRecipes.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoDotnetRecipes/FindClassRecipe.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoDotnetRecipes/InvertAssertionRecipe.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DemoDotnetRecipesTests/CollectionDefinitions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DemoDotnetRecipes/FindClassRecipe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DemoDotnetRecipes/InvertAssertionRecipe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../rewrite-remote/Rewrite.Remote/src/Rewrite.CSharp.Test/RemotingFixture.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../rewrite-remote/Rewrite.Remote/src/Rewrite.CSharp.Test/RemotingTestExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../rewrite-remote/Rewrite.Remote/src/Rewrite.Remote/RemotingContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../openrewrite/rewrite-csharp/Rewrite/src/Rewrite.CSharp.Test.Api/Assertions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../openrewrite/rewrite-csharp/Rewrite/src/Rewrite.CSharp/Tree/Cs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../openrewrite/rewrite-csharp/Rewrite/src/Rewrite.Core/Tree.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../openrewrite/rewrite-csharp/Rewrite/src/Rewrite.Java/Tree/Expression.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../openrewrite/rewrite-csharp/Rewrite/src/Rewrite.Java/Tree/J.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../openrewrite/rewrite-csharp/Rewrite/src/Rewrite.Java/Tree/JContainer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../openrewrite/rewrite-csharp/Rewrite/src/Rewrite.Java/Tree/JRightPadded.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../openrewrite/rewrite-csharp/Rewrite/src/Rewrite.Test/RecipeSpec.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../openrewrite/rewrite-csharp/Rewrite/src/Rewrite.Test/RewriteTest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0c1d259603c046049fbafdb0593e99f02200/3b/b4d0d55c/RemotingFixture.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11b2bff6487f471dbc7147613ecfad4f41c00/fd/cb3bba01/J.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1a08c1e3cb284f41941974a467f08bbd2000/db/621f4457/Assertions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/225a2d9f498941039588fe9a87f6dd678800/ea/2203ebd2/Tree.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/225a2d9f498941039588fe9a87f6dd678800/ee/014b9bf5/SearchResult.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78cc538693cd4c3dadc5f34b931cb2e85400/3d/fb3710d9/RewriteTest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d1570e2967b244c19bc690eb0e01b54d41c00/85/74dce118/JavaVisitor`1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d7addf2f629941949b2501fda178a5b8c28a00/09/840c1a7c/StringBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d7addf2f629941949b2501fda178a5b8c28a00/46/15f349d2/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d7addf2f629941949b2501fda178a5b8c28a00/9a/2468071d/CollectionsMarshal.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d7addf2f629941949b2501fda178a5b8c28a00/d0/3f0be6b7/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d7addf2f629941949b2501fda178a5b8c28a00/fb/acc6afb0/Span`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/79aaa9951f3c0f7e9b95ac46d2df92afc58c248a3eccabbc86550909f7f12b/StringEqualityStrategy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/c62dbcc4ba2718769223d2edcbb462defa1d97c8f2ef066639d41ddd521e/XUnit2TestFramework.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ksHFFtWm3Bxg78wfpbyk5m1Y9q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "3807f292-6d12-4ead-aa16-51c39ac9756d.executor": "Debug",
+    "4458e896-24b6-4468-82a2-c6db90bb2041.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "a8541a46-16c3-495e-b49e-fb0d41567201.executor": "Debug",
+    "d5f083b6-1437-4efd-a31c-1e3c37e6fcb0.executor": "Run",
+    "full.screen.before.presentation.mode": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "RiderNuGetOptionsPageId",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/olehdokuka/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
+      "/Users/olehdokuka/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache",
+      "/Users/olehdokuka/Library/Application Support/Symbols/src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="d5f083b6-1437-4efd-a31c-1e3c37e6fcb0" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff840c84-a4c4-4c34-b527-60f5eb6a2170" name="Changes" comment="" />
+      <created>1724065258882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724065258882</updated>
+      <workItem from="1724065260022" duration="2516000" />
+      <workItem from="1724153919467" duration="4525000" />
+      <workItem from="1724317323100" duration="4859000" />
+      <workItem from="1724681229448" duration="643000" />
+      <workItem from="1724695848092" duration="6904000" />
+      <workItem from="1724838037691" duration="18305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0c1d259603c046049fbafdb0593e99f02200/3b/b4d0d55c/RemotingFixture.cs</url>
+          <line>32</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0c1d259603c046049fbafdb0593e99f02200/3b/b4d0d55c/RemotingFixture.cs" containingFunctionPresentation="Constructor 'RemotingFixture'">
+            <startOffsets>
+              <option value="926" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1048" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Type#Rewrite.RewriteJava.Tree.J+MethodInvocation" memberName="Arguments" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
